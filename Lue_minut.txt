@@ -1,0 +1,4 @@
+Tämä ohjelma on tehty Raspberry PI:lle Scroll HAT Minille.
+Ohjelma hakee RSS-syötteestä Ylen pääuutisten otsikot ja näyttää ne Scroll HAT Minin leditaululla.
+Ohjelma on testattu Raspbian käyttöjärjestelmällä ja Python 3:lla.
+Tarvittavat kirjastot ohjelmalle feedparser ja scrollphathd.
